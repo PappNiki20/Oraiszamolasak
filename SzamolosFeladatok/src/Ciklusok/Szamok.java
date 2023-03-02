@@ -1,13 +1,19 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Ciklusok;
 
-/**
- *
- * @author nagyz
- */
 public class Szamok {
-    
+
+    public static void main(String[] args) {
+//        String a = "2";
+//        String b = "3";
+//        String c = "4";
+        for (int i = 2; i < 4; i++) {
+            for (int a = 2; a < 4; a++) {
+                for (int j = 2; j < 4; j++) {
+                    System.out.println(1 + "" + a + "" + j);
+
+                }
+            }
+        }
+
+    }
 }
