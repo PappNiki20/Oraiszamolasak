@@ -6,7 +6,7 @@ public class Sarkany {
         int x = 1;
         int y = 1;
         int i=(7 * x) + (11 * y);
-        for (i = (7 * x) + (11 * y); i < 140;) {
+        for (i = (7 * x) + (11 * y); i < 144;) {
             x++;
             y++;
             i = (7 * x) + (11 * y);
